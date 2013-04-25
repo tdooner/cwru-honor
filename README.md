@@ -21,3 +21,15 @@ Cheating is rampant, and students need to hold each other accountable.
 Creating a culture of self-enforced honesty will prepare students for the workplace more effectively and create deep feelings of mutual trust and respect.
 
 ***This is the culture that current and future CWRU students deserve.***
+
+Tell me more about honor codes:
+--------------------------------
+[Ohio University's Honor Code](http://www.ohio.edu/students/honor_code/) asks students to
+> hold [themselves] to the highest standards of personal honesty and ethical behavior in [their] academic work.
+and, if
+> if [they] see an instance of academic dishonesty, [to] take the appropriate steps that are consistent with the Honor Code.
+
+[Oberlin College's Honor Code](http://new.oberlin.edu/conservatory/academic-resources-and-support/honor-code.dot) asks students, when submitting each assignment, to remember their commitment to the honor code and thus
+> affirming that they have not cheated, plagiarized, fabricated, or falsified information, nor assisted others in these actions.
+
+At Oberlin, the Honor Code places so much trust in students that **professors do not proctor exams.**
