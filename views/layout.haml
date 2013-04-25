@@ -2,4 +2,10 @@
 %html
   %head
     %link{ :type => 'text/css', :rel => 'stylesheet', :href => 'application.css' }
-  %body= yield
+    %link{ :href => 'http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic', :rel => 'stylesheet', :type => 'text/css' }
+  %body
+    .container
+      %h1 CWRU has a serious problem...
+      .video{ :style => 'width: 320px; height: 240px; background-color: #000; float: left; margin: 0 30px 30px 0; color: #fff;' }
+        Video here...
+      = yield

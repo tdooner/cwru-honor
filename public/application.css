@@ -1,4 +1,20 @@
-body {
+body, html {
   background-color: #eee;
-  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.3em;
+}
+h1 {
+  margin-bottom: 1.2em;
+}
+li {
+  line-height: 1.5em;
+}
+.container {
+  width: 940px;
+  margin: 30px auto 0;
+}
+.clearfix {
+  clear: both;
 }
